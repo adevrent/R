@@ -437,14 +437,14 @@ Then we look at our selected assets’ correlations of daily returns:
 ggpairs(daily_returns_perc_data, columns = 2:7, title = "Correlations of daily returns of assets", axisLabels="none")
 ```
 
-![](Making_of_an_Investment_Portfolio_A_Case_Study_files/figure-gfm/unnamed-chunk-8-1.png)
+![](Making_of_an_Investment_Portfolio_A_Case_Study_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 Let’s compare our correlation coefficients by observing the values from
 [scribbr.com](https://www.scribbr.com/statistics/correlation-coefficient/).
 Please note that we are going to assume *Moderate* and *Weak*
 correlations as uncorrelated:
 
-![](correlation_coefficient_table.png)
+![image](https://user-images.githubusercontent.com/103383051/162691585-162466c0-945c-4e33-84c1-94abeb97d507.png)
 
 According to our table we discover the following:
 
