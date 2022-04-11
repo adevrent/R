@@ -437,7 +437,7 @@ Then we look at our selected assets’ correlations of daily returns:
 ggpairs(daily_returns_perc_data, columns = 2:7, title = "Correlations of daily returns of assets", axisLabels="none")
 ```
 
-![](Making_of_an_Investment_Portfolio_A_Case_Study_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](Making_of_an_Investment_Portfolio_A_Case_Study_files/figure-gfm/unnamed-chunk-8-1.png)
 
 Let’s compare our correlation coefficients by observing the values from
 [scribbr.com](https://www.scribbr.com/statistics/correlation-coefficient/).
